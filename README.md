@@ -1,2 +1,3 @@
 # gomoku
-An online gokumu game.
+
+An online gomoku game.
